@@ -10,4 +10,5 @@ public class BudgetAppApplication {
 		SpringApplication.run(BudgetAppApplication.class, args);
 	}
 
+
 }
